@@ -1,4 +1,4 @@
-package java_06_기본;
+package java_07_기본;
 
 public class Student {
     private int no;

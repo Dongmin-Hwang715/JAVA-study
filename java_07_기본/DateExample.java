@@ -1,4 +1,4 @@
-package java_06_기본;
+package java_07_기본;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
